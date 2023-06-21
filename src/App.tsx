@@ -33,7 +33,7 @@ function App() {
         backgroundColor: 'transparent', position: 'absolute', bottom: (theme) => theme.spacing(2), left: (theme) => theme.spacing(2),
       }}
       >
-        thichdan
+        thichdan.com
       </Box>
     </CanvasCTX.Provider>
   );
